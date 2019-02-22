@@ -1,4 +1,5 @@
 # Data Analyst Case
+Thanks a lot for taking the time to tackle the challenge for the Data Analyst role here at 8fit.
 
 ## Requirements
 
@@ -14,24 +15,31 @@
 
 ## Data
 
-You will find 2 tables in your `dwh`schema:
+You will find 2 tables in your `dwh` schema:
+* `subscriptions`
+* `spendings`
 
-* `subscriptions` table
-* `spendings` table
+Let's assume that you're looking at data from Q4/2016 and 01/2017
 
-Data are for Q4 2016 and January 2017.
+## Analysis Scenario
+Imagine our Head of Performance Marketing sends you an email:
 
-## Analytical Questions
+> I need to understand where to invest more money. I'm curious if you can help me make a decision based on your findings. Do you think it's ios or android?
+>
+> Aside from that I'm also curious if there's specific marketing channels we should be aiming for to get better results? I'm currently thinking that the channel with ID 4 looks promising. What are your thoughts?
+> Looking further into the data at hand it looks like UK (United Kingdom) would be a good investment. Do you agree?
 
-* Our Head of Performance Marketing is asking you: In which platform should I invest more money (ios or android)?
-* Our Head of Performance Marketing says: ok! but should I spend more in an specific marketing channel for this platform, maybe `marketing_channel_id = 4`?
-* Our Head of Performance Marketing says: ah! I have the intuition that United Kingdom will be a great investment, do you agree?
+> It would be great if you can present your findings and suggestions next week at the weekly marketing staff meeting.
 
-You are free to choose your favorite toolset (SQL queries, Tableau, Metabase, ipython, excel...) in order to explore, analyse and visualise the data.
+> Thanks,
+> Ben
 
-The final document could be a powerpoint, a word document or a ipython notebook. Please upload your final document in /analysis folder along with any extra files that would be meaningful for the review of your work.
+### Task
+Please compile a presentation about these questions. Feel free to use the tools you prefer to explore, analyse and visualise the data.
 
-## SQL Quetions
+For easiest reading we'd appreciate if you add a PDF version of the presentation in the `analysis` folder inside the repository. Please also place any meaningful intermediate steps, explorations and documentation into the same folder so we can review your work.
+
+## SQL experience
 
 
 ## Links
