@@ -2,7 +2,6 @@ data_analyst_case:
   outputs:
     dev:
       type: postgres
-      threads: 4
       host: 127.0.0.1
       port: 5432
       user: data_analyst_case
