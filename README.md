@@ -19,17 +19,17 @@ You will find 2 tables in your `dwh`schema:
 * `subscriptions` table
 * `spendings` table
 
+Data are for Q4 2016 and January 2017.
+
 ## Analytical Questions
 
-**1) Our Head of Performance Marketing is asking you: In which platform should I invest more money (ios or android)?**
-
-**2) Our Head of Performance Marketing says: ok! but should I spend more in an specific marketing channel for this platform, maybe Facebook?**
-
-**3) Our Head of Performance Marketing says: ah! I have the intuition that United Kingdom will be a great investment, do you agree?**
+* Our Head of Performance Marketing is asking you: In which platform should I invest more money (ios or android)?
+* Our Head of Performance Marketing says: ok! but should I spend more in an specific marketing channel for this platform, maybe `marketing_channel_id = 4`?
+* Our Head of Performance Marketing says: ah! I have the intuition that United Kingdom will be a great investment, do you agree?
 
 You are free to choose your favorite toolset (SQL queries, Tableau, Metabase, ipython, excel...) in order to explore, analyse and visualise the data.
 
-The final document could be a powerpoint, a word document or a ipython notebook.
+The final document could be a powerpoint, a word document or a ipython notebook. Please upload your final document in /analysis folder along with any extra files that would be meaningful for the review of your work.
 
 ## SQL Quetions
 
