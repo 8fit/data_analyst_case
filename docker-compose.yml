@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_PASSWORD: data_analyst_case
+      POSTGRES_USER: data_analyst_case
+      POSTGRES_DB: data_analyst_case
+    ports:
+      - "5432:5432"
+

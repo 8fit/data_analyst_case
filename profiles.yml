@@ -1,0 +1,12 @@
+data_analyst_case:
+  outputs:
+    dev:
+      type: postgres
+      threads: 4
+      host: 127.0.0.1
+      port: 5432
+      user: data_analyst_case
+      pass: data_analyst_case
+      dbname: data_analyst_case
+      schema: dwh
+  target: dev

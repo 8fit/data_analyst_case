@@ -1,0 +1,14 @@
+name: 'data_analyst_case'
+version: '1.0'
+profile: 'data_analyst_case'
+
+source-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+data-paths: ["data"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+    - "target"
+    - "dbt_modules"
