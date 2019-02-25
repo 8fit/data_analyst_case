@@ -41,6 +41,13 @@ For easiest reading we'd appreciate if you add a PDF version of the presentation
 
 ## SQL experience
 
+Please write down the queries to answer the following questions:
+
+> How much did we spent per channel in December ?
+
+> What is the average cost of acquisition of a subscription per country ?
+
+> What is our average revenue and spends per day of the week (Monday, Tuesday...) ?
 
 ## Links
 
