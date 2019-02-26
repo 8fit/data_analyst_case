@@ -9,4 +9,3 @@ services:
       POSTGRES_DB: data_analyst_case
     ports:
       - "5432:5432"
-
