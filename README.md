@@ -83,42 +83,6 @@ Once you feel comfortable with your solution and you've committed the necessary 
 
 Again thanks for your time to work on this case.
 
-## Data
-
-You will find 2 tables in your `dwh` schema:
-* `subscriptions`
-* `spendings`
-
-Let's assume that you're looking at data from Q4/2016 and 01/2017
-
-## Analysis Scenario
-Imagine our Head of Performance Marketing sends you an email:
-
-> I need to understand where to invest more money. I'm curious if you can help me make a decision based on your findings. Do you think it's ios or android?
->
-> Aside from that I'm also curious if there's specific marketing channels we should be aiming for to get better results? I'm currently thinking that the channel with ID 4 looks promising. What are your thoughts?
-> Looking further into the data at hand it looks like UK (United Kingdom) would be a good investment. Do you agree?
-
-> It would be great if you can present your findings and suggestions next week at the weekly marketing staff meeting.
-
-> Thanks,
-> Ben
-
-### Task
-Please compile a presentation about these questions. Feel free to use the tools you prefer to explore, analyse and visualise the data.
-
-For easiest reading we'd appreciate if you add a PDF version of the presentation in the `analysis` folder inside the repository. Please also place any meaningful intermediate steps, explorations and documentation into the same folder so we can review your work.
-
-## SQL experience
-
-Please write down the queries to answer the following questions:
-
-> How much did we spent per channel in December ?
-
-> What is the average cost of acquisition of a subscription per country ?
-
-> What is our average revenue and spends per day of the week (Monday, Tuesday...) ?
-
 ## Links
 
 * [DBT documentation](https://docs.getdbt.com/)
